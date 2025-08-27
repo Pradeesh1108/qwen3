@@ -85,7 +85,3 @@ The application uses a combination of:
 - LlamaIndex for document processing and RAG implementation
 - Nebius AI's models for embeddings and generation
 - PyPDF2 for PDF handling
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
